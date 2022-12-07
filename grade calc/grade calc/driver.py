@@ -1,6 +1,3 @@
-"""
-    Main driver for the project
-"""
 import student.student as student
 import manage.class_info_code as Course
 
