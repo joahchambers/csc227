@@ -1,6 +1,3 @@
-# Program to calculate students' grades and averages
-# Creates a dictionaries that include the students' names and grades
-# Group 03: Anthony "AJ" Clark, Simon Chaudhary, Lucas Collins, Joah Chambers
 
 # Student 1's Grades
 S1 = {"Name": "Christopher Collins",
